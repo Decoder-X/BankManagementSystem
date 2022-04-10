@@ -17,7 +17,7 @@ def inp_data(data):
 
 #random number create
 def create_number():
-  n = random.randint(100000000000000,999999999999999)
+  n = random.randint(151600000000000,151699999999999)
   return n
 
 #money Add
